@@ -67,9 +67,7 @@ fastlane/screenshots
 
 # Icon must end with two \r
 Icon
-Icon\r
-
-
+Icon
 # Thumbnails
 ._*
 
@@ -87,3 +85,6 @@ Icon\r
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Allow normal usage of stuff named icons
+!icons
