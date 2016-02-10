@@ -67,7 +67,7 @@ fastlane/screenshots
 
 # Icon must end with two \r
 Icon
-Icon
+
 # Thumbnails
 ._*
 
@@ -88,3 +88,4 @@ Temporary Items
 
 # Allow normal usage of stuff named icons
 !icons
+IconIcon
