@@ -85,9 +85,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# Allow normal usage of stuff named icons
-!icons
-Icon
-
-Icon
